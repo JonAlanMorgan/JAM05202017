@@ -11,4 +11,4 @@ published: true
 tags: [ ]
 categories: [ ]
 ---
-<p>[aesop_collection collection="1" columns="1" splash="off" order="default" loadmore="off"]</p>
+<p>[aesop_collection collection="48" columns="1" splash="off" order="default" loadmore="off"]</p>
